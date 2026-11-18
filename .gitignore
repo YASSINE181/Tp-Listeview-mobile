@@ -7,3 +7,6 @@
 /captures
 .externalNativeBuild
 .cxx
+
+# Fichier généré par Gradle (updateDaemonJvm)
+/gradle/gradle-daemon-jvm.properties
