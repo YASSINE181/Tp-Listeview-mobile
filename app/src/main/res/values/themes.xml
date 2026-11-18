@@ -1,0 +1,6 @@
+<resources>
+    <!-- Thème hérité d'AppCompat, adapté à l'affichage bord à bord d'Android 15+ -->
+    <style name="Theme.ContactsListView" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

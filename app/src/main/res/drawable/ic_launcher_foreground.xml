@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Silhouette du contact -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M41,32a9,9 0 1,1 0,18a9,9 0 1,1 0,-18z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,74c0,-11 7,-18 16,-18s16,7 16,18z" />
+
+    <!-- Lignes de la liste -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,38h17a3,3 0 0,1 3,3a3,3 0 0,1 -3,3h-17a3,3 0 0,1 -3,-3a3,3 0 0,1 3,-3z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,51h17a3,3 0 0,1 3,3a3,3 0 0,1 -3,3h-17a3,3 0 0,1 -3,-3a3,3 0 0,1 3,-3z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,64h17a3,3 0 0,1 3,3a3,3 0 0,1 -3,3h-17a3,3 0 0,1 -3,-3a3,3 0 0,1 3,-3z" />
+</vector>
